@@ -1,4 +1,4 @@
-- 👋 Olá, sou @Giulliards
+- 👋 Olá
 - 👀 Sou estudante de fonoaudiologia e técnica em informatica.
 - 🌱 Atualmente estou aprendendo CSS, HTML e afins
 
